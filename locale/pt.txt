@@ -1,0 +1,32 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_C205BE48_EF8A_CB5D_41EC_36D569DDDC6D.toolTip = ELEVADOR
+HotspotPanoramaOverlayArea_C4BFCB07_EF8B_4AD5_41EA_C821728E628D.toolTip = ELEVADOR
+HotspotPanoramaOverlayArea_C2CB33A7_EF8B_59D4_41C5_0D9623339F26.toolTip = INFRAESTRUTURA  \
+PRONTA PARA SPA
+HotspotPanoramaOverlayArea_C59C684E_EFF6_D755_418E_058165A5FC76.toolTip = PÉ DIREITO DUPLO
+
+## Media
+
+### Title
+panorama_CE166430_EFFB_5F30_41CA_0A093009C0B1.label = Banheiro
+panorama_CE16F8DD_EFFB_3771_41DB_909DE63F3F74.label = Cobertura_1
+panorama_CE15C348_EFFB_395F_41E3_8AF182CC9602.label = Cobertura_2
+panorama_CE18AD89_EFFA_C9D1_41E0_C1CDA24AD1E8.label = Cobertura_3
+panorama_CC9CC85B_EFFA_D771_41D5_420068AAFCE1.label = Cobertura_banheiro
+panorama_CE167998_EFFB_49FF_41BB_894866F27785.label = Quarto
+panorama_CE163E43_EFFB_4B50_41B9_20B756D0CDB7.label = Sacada quarto
+panorama_CE15049F_EFFB_7FF0_41BA_4C36BB4497BA.label = Sala
+panorama_CE16EEF7_EFFB_4B31_4192_E00BC86F32C8.label = Suíte
+panorama_DFF74C1F_EF9A_CEF7_41EB_D57506CF4D01.label = Suíte_BANHEIRO
+panorama_CE15A9F7_EFFB_4931_41E6_A1B9180E56C8.label = entradaa
+
+## Tour
+
+### Description
+
+### Title
+tour.name = AROEIRAS_20537 - COBERTURA
